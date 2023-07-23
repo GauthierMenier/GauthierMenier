@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DevOps stuff.
-- 🌱 I’m currently learning Blockchain & web3 apps.
-- 💬 Ask me about devops & observability subjects.
+- 🔭 I’m currently working on Ops & Observability stuff.
+- 🌱 I’m currently learning Cybersecurity.
+- 💬 Ask me about DevOps subjects.
